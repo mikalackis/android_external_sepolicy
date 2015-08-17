@@ -3,6 +3,7 @@ account                                   u:object_r:system_server_service:s0
 activity                                  u:object_r:system_server_service:s0
 alarm                                     u:object_r:system_server_service:s0
 android.security.keystore                 u:object_r:keystore_service:s0
+anti_theft                                u:object_r:system_server_service:s0
 appops                                    u:object_r:system_server_service:s0
 appwidget                                 u:object_r:system_server_service:s0
 assetatlas                                u:object_r:system_server_service:s0
